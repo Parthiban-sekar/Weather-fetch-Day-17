@@ -1,0 +1,49 @@
+body {
+    background-image:url("https://media.maptiler.com/img/2023_07_12_free_weather_sdk_and_api_for_web_maps_and_apps_1_e7ee42b54f.png");
+    margin: auto;
+    text-align: center;
+    width: 100%;
+  }
+  img {
+    height: 225px;
+  }
+  
+  .country_row {
+    margin: 0%;
+    
+  }
+  
+  .card {
+    background-color: #395266;
+    margin:2rem;
+    width: 22rem;
+  }
+  .card-header {
+    background-color: #c9ccc9;
+    width:100%;
+    font-weight: bold;
+    color: rgb(27, 27, 27);
+  }
+  
+  .weather-data {
+    text-align: center;
+    margin: auto;
+  }
+  
+  .container {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    color: white;
+  }
+  
+  .hidden {
+    display: none;
+  }
+h1{
+    color: white;
+}
+p{
+    color: white;
+}
